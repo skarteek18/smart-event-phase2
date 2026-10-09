@@ -1,0 +1,45 @@
+
+
+# Cadence Innovus generated files
+*.enc
+*.enc.dat
+*.log
+*.cmd
+*.rpt
+*.out
+
+# Temporary and backup files
+*.tmp
+*.bak
+*.swp
+*~
+temp/
+tmp/
+logs/
+
+# Generated physical design data
+*.gds
+*.oas
+*.spef
+*.sdf
+*.vcd
+*.saif
+
+# Generated databases and checkpoints
+checkpoints/
+results/
+reports/
+outputs/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.vscode/
+.idea/
+
+# Python cache (if scripts use Python)
+__pycache__/
+*.py[cod]
